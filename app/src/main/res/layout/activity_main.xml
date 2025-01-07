@@ -23,7 +23,7 @@
         app:layout_constraintTop_toBottomOf="@id/text_view"
         android:textSize="20sp"
         android:layout_marginTop="120dp"
-        android:text="Log in with Facebook"
+        android:text="Log in with  Facebook"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
